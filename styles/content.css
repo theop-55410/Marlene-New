@@ -21,7 +21,22 @@
     align-self: center;
 }
 
+.content3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.content4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 .media {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     height: 50%;
     width: 50%;
 }
